@@ -1,0 +1,21 @@
+h1{
+    border-bottom: 1px solid greenyellow;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 3%;
+    padding-top: 3%;
+}
+.table{
+    border-collapse: collapse;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    color: lightblue;
+}
+table, td, th {
+    border: 1px solid orangered;
+  }
+div{
+    background-color: grey;
+    padding-bottom: 3%;
+}
